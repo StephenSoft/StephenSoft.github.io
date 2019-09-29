@@ -42,6 +42,17 @@ keywords: "Hexo, NexT"
 # Set rss to specific value if you have burned your feed already.
 rss:
 
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: /uploads/rss-icon.png
+
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.

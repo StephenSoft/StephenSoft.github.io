@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>兴趣使然的Stephen小站</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-27T10:01:53.041Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>StephenZzz</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello_fucking_world</title>
+    <link href="http://yoursite.com/2019/09/27/hello-fucking-world/"/>
+    <id>http://yoursite.com/2019/09/27/hello-fucking-world/</id>
+    <published>2019-09-27T10:01:22.000Z</published>
+    <updated>2019-09-27T10:01:53.041Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="FUCK"><a href="#FUCK" class="headerlink" title="FUCK"></a>FUCK</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;FUCK&quot;&gt;&lt;a href=&quot;#FUCK&quot; class=&quot;headerlink&quot; title=&quot;FUCK&quot;&gt;&lt;/a&gt;FUCK&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

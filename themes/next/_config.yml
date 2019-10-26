@@ -48,8 +48,10 @@ feed:
   limit: 20
   hub:
   content:
-  content_limit:
+  content_limit: 140
   content_limit_delim: ' '
+  order_by: -date
+  icon: /uploads/rss-icon.png
 
 footer:
   # Specify the date when the site was setup.
@@ -163,7 +165,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: images/touxiang.jpeg
 
 # Table Of Contents in the Sidebar
 toc:

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-27T10:01:53.041Z</updated>
+  <updated>2019-12-02T12:57:59.146Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/09/27/hello-fucking-world/"/>
     <id>http://yoursite.com/2019/09/27/hello-fucking-world/</id>
     <published>2019-09-27T10:01:22.000Z</published>
-    <updated>2019-09-27T10:01:53.041Z</updated>
+    <updated>2019-12-02T12:57:59.146Z</updated>
     
     <content type="html"><![CDATA[<h1 id="FUCK"><a href="#FUCK" class="headerlink" title="FUCK"></a>FUCK</h1>]]></content>
     
@@ -35,6 +35,8 @@
     </summary>
     
     
+    
+      <category term="niubi" scheme="http://yoursite.com/tags/niubi/"/>
     
   </entry>
   
